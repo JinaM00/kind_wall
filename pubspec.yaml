@@ -35,6 +35,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/icons/heart.png
     - assets/images/  # folder for uplifting visuals
     - assets/icons/           # if you added pastel icons
